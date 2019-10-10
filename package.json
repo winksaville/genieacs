@@ -35,7 +35,7 @@
     "yaml": "^1.6.0"
   },
   "optionalDependencies": {
-    "libxmljs": "^0.19.5"
+    "libxmljs": "^0.19.7"
   },
   "devDependencies": {
     "@types/jsonwebtoken": "^8.3.2",
